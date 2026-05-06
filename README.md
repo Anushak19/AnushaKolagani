@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anusha Kolagani</h1>
 
 <h3 align="center">
-Full-Stack Developer | Generative AI Engineer | Python | React | AWS
+Full-Stack Developer | Backend Engineer | Generative AI | Python | React | AWS
 </h3>
 
 ---
