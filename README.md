@@ -93,14 +93,6 @@ Full-Stack Developer | Generative AI Engineer | Python | React | AWS
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushak19&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushak19&layout=compact&theme=tokyonight)
-
----
-
 ## 🏆 Certifications
 
 - NVIDIA — Generative AI LLMs
