@@ -21,25 +21,60 @@ Full-Stack Developer | Generative AI Engineer | Python | React | AWS
 
 ---
 
-## 🚀 Tech Stack
+ 🚀 Tech Stack
 
-### Languages
-Python • Java • JavaScript • SQL • C#
+## Languages
 
-### Frontend
-React.js
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Backend
-FastAPI • Flask • REST APIs • Microservices
+---
 
-### Databases
-MySQL • MongoDB • Redis
+# Frontend
 
-### Cloud & DevOps
-AWS • Docker • Kubernetes • Git • Linux • CI/CD
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### AI & GenAI
-LLM Integration • Prompt Engineering • NLP • Conversational AI • RAG
+---
+
+# Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge)
+
+---
+
+# Databases & Caching
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+# Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 🤖 AI & GenAI Stack
+
+![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Integration-4B0082?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-008080?style=for-the-badge)
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-5A67D8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_System-6A5ACD?style=for-the-badge)
 
 ---
 
