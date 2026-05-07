@@ -11,7 +11,7 @@ Full-Stack Developer | Backend Engineer | Generative AI | Python | React | AWS
 - 🤖 Interested in Generative AI, LLMs, RAG Systems, and Backend Engineering
 - 🌱 Currently learning System Design and Cloud Infrastructure
 - 🚀 Building scalable full-stack and AI-powered applications
-- 📫 Reach me at: anushakolagani10@gmail.com
+- 📫  How to reach me anushakolagani10@gmail.com
 
 ---
 
